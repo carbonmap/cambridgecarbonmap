@@ -1,0 +1,29 @@
+{
+	"units":[
+		{
+			"cefact":"KGM",
+			"si":"kg",
+			"conversion":1.0
+		},
+		{
+			"cefact":"KWH",
+			"si":"kWh",
+			"conversion":1.0
+		},
+		{
+			"cefact":"MTQ",
+			"si":"m3",
+			"conversion":1.0
+		},
+		{
+			"cefact":"MTR",
+			"si":"m",
+			"conversion":1.0
+		},
+		{
+			"cefact":"SEC",
+			"si":"s",
+			"conversion":1.0
+		}
+	]
+}

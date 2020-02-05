@@ -1,0 +1,19 @@
+{
+	"id":"uk.ac.cam.jesus",
+	"emissions": [
+		{
+			"periodStart":"2018-01-01T00:00:00",
+			"periodEnd":"2019-01-01T00:00:00",
+			"measure":"gas",
+			"unit":"MTQ",
+			"value":1234.56
+		},
+		{
+			"periodStart":"2018-01-01T00:00:00",
+			"periodEnd":"2019-01-01T00:00:00",
+			"measure":"electricity",
+			"unit":"KWH",
+			"value":2345.67
+		}
+	]
+}
