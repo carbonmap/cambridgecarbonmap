@@ -1,0 +1,23 @@
+{
+    "name": "King's College",
+    "id": "uk.ac.cam.kings",
+    "geojson": "/geojson/uk.ac.cam.kings.geojson",
+    "emissions": [{
+        "period-start": "2019-01-01T00:00:00",
+        "period-end": "2020-01-01T00:00:00",
+        "measure":"gas",
+        "unit": "m3",
+        "value": 5,
+        "kgco2e":345.67,
+        "co2e_calculation":"uk.gov:2018"
+    },
+    {
+        "period-start": "2019-01-01T00:00:00",
+        "period-end": "2020-01-01T00:00:00",
+        "measure":"electricity",
+        "unit": "kWh",
+        "value": 6,
+        "kgco2e":345.67,
+        "co2e_calculation":"uk.gov:2018"
+    }]
+}

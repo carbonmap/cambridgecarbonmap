@@ -1,6 +1,7 @@
 {
 	"id":"uk.ac.cam.jesus",
 	"name":"Jesus College",
+  "geojson": "/geojson/uk.ac.cam.jesus.geojson",
 	"emissions": [
 		{
 			"periodStart":"2018-01-01T00:00:00",

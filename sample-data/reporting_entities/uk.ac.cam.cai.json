@@ -1,0 +1,23 @@
+{
+    "name": "Gonville and Caius College",
+    "id": "uk.ac.cam.cai",
+    "geojson": "/geojson/uk.ac.cam.cai.geojson",
+    "emissions": [{
+        "period-start": "2019-01-01T00:00:00",
+        "period-end": "2020-01-01T00:00:00",
+        "measure":"gas",
+        "unit": "m3",
+        "value": 3,
+        "kgco2e":345.67,
+        "co2e_calculation":"uk.gov:2018"
+    },
+    {
+        "period-start": "2019-01-01T00:00:00",
+        "period-end": "2020-01-01T00:00:00",
+        "measure":"electricity",
+        "unit": "kWh",
+        "value": 6,
+        "kgco2e":345.67,
+        "co2e_calculation":"uk.gov:2018"
+    }]
+}

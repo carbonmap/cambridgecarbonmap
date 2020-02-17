@@ -1,0 +1,23 @@
+{
+    "name": "Queen's College",
+    "id": "uk.ac.cam.queens",
+    "geojson": "/geojson/uk.ac.cam.queens.geojson",
+    "emissions": [{
+        "period-start": "2019-01-01T00:00:00",
+        "period-end": "2020-01-01T00:00:00",
+        "measure":"gas",
+        "unit": "m3",
+        "value": 1,
+        "kgco2e":345.67,
+        "co2e_calculation":"uk.gov:2018"
+    },
+    {
+        "period-start": "2019-01-01T00:00:00",
+        "period-end": "2020-01-01T00:00:00",
+        "measure":"electricity",
+        "unit": "kWh",
+        "value": 2,
+        "kgco2e":345.67,
+        "co2e_calculation":"uk.gov:2018"
+    }]
+}
